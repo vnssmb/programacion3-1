@@ -1,7 +1,7 @@
 # Interface utilizando Layouts
 Este proyecto se muestra una interfaz gráfica donde se presenta unas imágenes junto a sus respectivas etiquetas. 
 
-# imagén del proyecto
+# Imagén del proyecto
 ![image](https://github.com/vnssmb/programacion3-1/assets/142614155/d40256f9-8fbf-4723-924e-208d6ad6955e)
 
 # ImageView
